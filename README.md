@@ -59,7 +59,7 @@ Projeto desenvolvido durante o evento NLW Agents da **Rocketseat** para demonstr
 
 ## 🔌 Backend
 
-O projeto consome uma API ([NLW Agents - Server](https://github.com/GabrielSchiavo/nlw-agents-server)) que deve estar rodando na porta 3333. Certifique-se de que a API esteja configurada e em execução antes de iniciar o frontend (NLW Agents - Web).
+O projeto consome uma API presente na branch [`agents-server`](https://github.com/GabrielSchiavo/nlw-agents/tree/agents-server) deste repositório. Ela deve estar rodando na porta 3333. Certifique-se de que a API esteja configurada e em execução antes de iniciar o frontend (NLW Agents - Web).
 
 ## ✅ Tecnologias utilizadas
 
