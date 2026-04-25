@@ -1,12 +1,13 @@
 {
   "name": "agents-web",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "type-check": "tsc --noEmit --watch"
   },
   "dependencies": {
     "@hookform/resolvers": "5.2.2",

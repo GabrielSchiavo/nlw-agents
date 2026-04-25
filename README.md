@@ -41,21 +41,21 @@ Projeto desenvolvido durante o evento NLW Agents da **Rocketseat** para demonstr
 
 1. `Instalar dependências:`
    ```bash
-   npm install
+   pnpm install
    ```
 
 2. `Executar o projeto:`
    ```bash
-   npm run dev
+   pnpm dev
    ```
 
 3. Acesse a aplicação em `http://localhost:5173`
 
 ## ⚡ Scripts Disponíveis
 
-- `npm run dev` - Inicia o servidor de desenvolvimento
-- `npm run build` - Compila TypeScript e gera build de produção
-- `npm run preview` - Preview do build de produção
+- `pnpm dev` - Inicia o servidor de desenvolvimento
+- `pnpm build` - Compila TypeScript e gera build de produção
+- `pnpm preview` - Preview do build de produção
 
 ## 🔌 Backend
 
