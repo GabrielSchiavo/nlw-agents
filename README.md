@@ -49,7 +49,7 @@ Projeto desenvolvido durante o evento NLW Agents da **Rocketseat** utilizando te
 1. `Instalar dependências:`
 
    ```bash
-   npm install
+   pnpm install
    ```
 
 2. `Configurar banco de dados:`
@@ -82,19 +82,19 @@ Projeto desenvolvido durante o evento NLW Agents da **Rocketseat** utilizando te
    - **Desenvolvimento:**
 
      ```bash
-     npm run dev
+     pnpm dev
      ```
 
    - **Produção:**
      ```bash
-     npm start
+     pnpm start
      ```
 
 ## ⚡ Scripts Disponíveis
 
-- `npm run dev` - Executa o servidor em modo de desenvolvimento com hot reload
-- `npm start` - Executa o servidor em modo de produção
-- `npm run db:seed` - Popula o banco de dados com dados de exemplo
+- `pnpm dev` - Executa o servidor em modo de desenvolvimento com hot reload
+- `pnpm start` - Executa o servidor em modo de produção
+- `pnpm db:seed` - Popula o banco de dados com dados de exemplo
 - `npx drizzle-kit studio` - Inicia o visualizador de DB do Drizzle
 
 ## 🌐 Endpoints
